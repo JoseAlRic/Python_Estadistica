@@ -4,17 +4,45 @@
 
 ## Contenido del Repositorio 📁
 
-1. **Frecuencia y Medidas:** Este proyecto aborda los conceptos básicos de frecuencia y medidas estadísticas, incluyendo la media, la mediana, la moda y la desviación estándar.
+**Frecuencia y Medias** 📈
+- Análisis Descriptivo: Exploración inicial de los datos utilizando medidas estadísticas como la media, mediana y moda.
+- Distribución de Frecuencias: Visualización de la distribución de los datos utilizando histogramas y gráficos de barras.
+- Medidas de Tendencia Central: Cálculo e interpretación de medidas como la media, mediana y moda para entender el centro de los datos.
+- Medidas de Localización: Identificación de los valores que se encuentran en diferentes posiciones dentro de un conjunto de datos, como los percentiles.
+- Medidas de Dispersión: Evaluación de la variabilidad o dispersión de los datos mediante medidas como la desviación estándar y el rango intercuartílico.
 
-2. **Probabilidad y Muestreo:** Aquí exploramos los fundamentos de la probabilidad y las técnicas de muestreo, incluyendo la distribución normal y la distribución binomial.
+**Probabilidad y Muestreo** 🎲
+- Distribución Binomial: Aplicación y comprensión de la distribución binomial en eventos con dos resultados posibles.
+- Muestreo: Métodos y técnicas para seleccionar una muestra representativa de una población más grande.
+- Estimación: Cálculo de estimaciones puntuales y por intervalos para parámetros de interés en una población.
+- Cálculo de la Muestra: Determinación del tamaño necesario de la muestra para obtener resultados significativos.
 
-3. **Test de Hipótesis:** En este proyecto, analizamos cómo realizar pruebas de hipótesis estadísticas para tomar decisiones basadas en datos.
+**Test de Hipótesis** 📝
+- Prueba de Hipótesis: Métodos para evaluar afirmaciones sobre los parámetros poblacionales utilizando datos muestrales.
+- Prueba de Hipótesis para una Media: Pruebas estadísticas para determinar si la media poblacional es igual a un valor específico.
+- Prueba de Hipótesis para Diferencia de Medias: Evaluación de diferencias entre dos medias poblacionales utilizando pruebas paramétricas y no paramétricas.
+- Prueba Chi-Cuadrado: Aplicación de la prueba chi-cuadrado para comparar la distribución observada de datos con una distribución esperada.
+- Prueba No Paramétrica: Utilización de pruebas estadísticas que no requieren supuestos sobre la distribución subyacente de los datos.
 
-4. **Test Estadístico:** Este proyecto se centra en el uso de diferentes pruebas estadísticas, como la prueba t y la prueba de Chi-cuadrado, para analizar conjuntos de datos.
+**Test Estadístico** 📊
+- Explorando la Distribución de las Muestras: Visualización y análisis de la distribución de los datos muestrales.
+- Test de una Muestra: Pruebas para evaluar si la media de una muestra es igual a una determinada población.
+- Otros Test Estadísticos: Utilización de pruebas Z para muestras grandes y pequeñas, así como otras pruebas para comparar distribuciones o muestras.
 
-5. **Regresión Lineal Parte 1:** Exploramos el concepto de regresión lineal simple y múltiple, así como su implementación en Python utilizando bibliotecas como NumPy y scikit-learn.
+**Regresión Lineal I** 📈
+- Comportamiento de la Variable Dependiente Y: Análisis de la variable objetivo y su distribución en relación con las variables explicativas.
+- Variable Dependiente vs Variable Explicativa: Exploración de la relación entre la variable dependiente y las variables explicativas mediante gráficos de dispersión y pairplots.
+- Datasets de Entrenamiento y Prueba: División de los datos en conjuntos de entrenamiento y prueba para evaluar el rendimiento del modelo.
+- Comparando Modelos: Evaluación de diferentes modelos de regresión lineal y selección del mejor ajuste.
+- Guardando y Cargando el Modelo Estimado: Almacenamiento del modelo entrenado para su posterior uso y reutilización.
 
-6. **Regresión Lineal Parte 2:** Continuamos con el análisis de regresión lineal, profundizando en temas como la evaluación del modelo y la interpretación de los resultados.
+**Regresión Lineal II** 📉
+- Análisis Preliminar: Evaluación inicial de la relación entre las variables y la idoneidad de la regresión lineal.
+- Análisis Gráfico: Visualización de los datos y la relación entre las variables mediante gráficos.
+- Transformación de Variables: Aplicación de transformaciones a las variables para mejorar el ajuste del modelo.
+- Regresión Lineal con StatsModels: Implementación de modelos de regresión lineal utilizando la biblioteca StatsModels.
+- Regresión Lineal con Scikit-Learn: Construcción de modelos de regresión lineal utilizando la biblioteca Scikit-Learn.
+
 
 ## Requisitos de Instalación 🛠️
 
